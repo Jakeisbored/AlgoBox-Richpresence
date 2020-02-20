@@ -1,0 +1,21 @@
+{
+  "name": "algobox-rich-presence",
+  "version": "1.0.0",
+  "description": "Discord Presence for AlgoBox",
+  "main": "rpc.js",
+  "author": "Jake",
+  "homepage": "https://github.com/Jakeisbored/AlgoBox-Richpresence",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakeisbored/AlgoBox-Richpresence.git"
+  },
+  "dependencies": {
+    "active-win": "^3.0.0",
+    "discord-rpc": "^3.0.0-beta.4",
+    "log-symbols": "^3.0.0"
+  }
+}
